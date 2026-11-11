@@ -1,0 +1,17 @@
+node_modules/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.vercel/
+.claude/
+.copilot/
+.codex/
+.cursor/
+.agent/
+.agents/
+.git-credentials
+*.pem
+*.key
